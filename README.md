@@ -5,7 +5,7 @@ Blacklisted all the blob parts and similar parts that were cluttering menu, to r
 Recreated recipes for pneumatic assault rifle and pneumatic bolt driver allowing to construct more complex vehicle weapons.
 Below is old readme written by Blaze or someone, i haven't even read it.
 - SzQ - June 2021
-### ----------------------ORIGINAL OUTDATED README BELOW-----------------------------------------
+### ----------------------ORIGINAL OUTDATED README BELOW-----------------------------------
 
 This is the last test candidate version for the re-worked blazemod with backwards compatibility. 
 
