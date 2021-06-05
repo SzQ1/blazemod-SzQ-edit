@@ -1,8 +1,11 @@
+### Go to Releases for download
+https://github.com/SzQ1/blazemod-SzQ-edit/releases
+
 Blacklisted all the blob parts and similar parts that were cluttering menu, to restore edit the modinfo.json and delete blacklist.
 Recreated recipes for pneumatic assault rifle and pneumatic bolt driver allowing to construct more complex vehicle weapons.
 Below is old readme written by Blaze mostlikely, i haven't even read it.
 - SzQ - June 2021
---------------------------ORIGINAL README BELOW--------------------------------------------------------------------
+### ----------------------ORIGINAL README BELOW-----------------------------------------------------------------
 
 This is the last test candidate version for the re-worked blazemod with backwards compatibility. 
 
