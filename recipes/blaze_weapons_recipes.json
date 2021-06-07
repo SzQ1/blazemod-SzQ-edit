@@ -174,6 +174,48 @@
     "components": [ [ [ "foot_crank", 1 ] ], [ [ "scrap", 12 ], [ "steel_chunk", 4 ] ], [ [ "nailrifle", 1 ] ] ]
   },
     {
+    "result": "rebar_rifle",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_PARTS",
+    "skill_used": "mechanics",
+    "difficulty": 3,
+    "skills_required": [ "gun", 3 ],
+    "time": 30000,
+    "autolearn": true,
+    "using": [ [ "soldering_standard", 40 ] ],
+    "qualities": [ { "id": "HAMMER", "level": 2 }, { "id": "SAW_M_FINE", "level": 1 }, { "id": "SCREW_FINE", "level": 1 }, { "id": "SAW_M", "level": 1 } ],
+    "components": [ [ [ "foot_crank", 1 ] ], [ [ "scrap", 12 ], [ "steel_chunk", 4 ] ], [ [ "chain", 1 ] ] ]
+  },
+   {
+    "result": "nailrifle",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_PARTS",
+    "skill_used": "mechanics",
+    "difficulty": 3,
+    "skills_required": [ "gun", 3 ],
+    "time": 30000,
+    "autolearn": true,
+    "using": [ [ "soldering_standard", 40 ] ],
+    "qualities": [ { "id": "HAMMER", "level": 2 }, { "id": "SAW_M_FINE", "level": 1 }, { "id": "SCREW_FINE", "level": 1 }, { "id": "SAW_M", "level": 1 } ],
+    "components": [ [ [ "foot_crank", 1 ] ], [ [ "scrap", 12 ], [ "steel_chunk", 4 ] ], [ [ "chain", 1 ] ] ]
+  },
+  {
+    "result": "coilgun",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_PARTS",
+    "skill_used": "mechanics",
+    "difficulty": 3,
+    "skills_required": [ "gun", 3 ],
+    "time": 30000,
+    "autolearn": true,
+    "using": [ [ "soldering_standard", 40 ] ],
+    "qualities": [ { "id": "HAMMER", "level": 2 }, { "id": "SAW_M_FINE", "level": 1 }, { "id": "SCREW_FINE", "level": 1 }, { "id": "SAW_M", "level": 1 } ],
+    "components": [ [ [ "foot_crank", 1 ] ], [ [ "scrap", 12 ], [ "steel_chunk", 4 ] ], [ [ "chain", 1 ] ] ]
+  },
+    {
     "result": "helsing",
     "type": "recipe",
     "category": "CC_OTHER",

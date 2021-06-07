@@ -333,6 +333,7 @@
     "name": "turret chassis",
     "item": "turretframe",
     "symbol": "Y",
+	"looks_like": "turret_mount",
     "broken_symbol": "#",
     "color": "light_gray",
     "broken_color": "light_gray",

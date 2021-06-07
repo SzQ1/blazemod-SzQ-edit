@@ -189,6 +189,7 @@
     "bashing": 15,
     "material": [ "steel" ],
     "symbol": "]",
+	"looks_like": "turret_mount",
     "color": "light_gray",
     "techniques": [ "DEF_DISARM" ]
   }
