@@ -5,7 +5,7 @@
     "name": "Blazemod SzQ edit",
     "authors": [ "Blaze-whatdoyoumeanitsalreadytaken" ],
     "maintainers": [ "Kenan, SzQ I guess" ],
-    "description": "A lot of vehicle parts and weapons, blob parts are blacklisted in modinfo.json",
+    "description": "A lot of vehicle parts and weapons.json",
     "category": "vehicles",
     "dependencies": [ "dda" ]
   }
